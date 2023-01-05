@@ -7,4 +7,4 @@ Simple Text-Based Search Engine in Java
 
 ![banner resmi](https://github.com/emrepiristinee/Simple-Text-Based-Search-Engine/blob/main/photo/3.png)
 
-![banner resmi](https://github.com/emrepiristinee/Simple-Text-Based-Search-Engine/blob/main/photo/4.png)
+![banner resmi](https://github.com/emrepiristinee/Simple-Text-Based-Search-Engine/blob/main/photo/44.png)
